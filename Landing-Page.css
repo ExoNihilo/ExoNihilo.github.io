@@ -1,0 +1,35 @@
+/*GENERAL*/
+header{
+  height: 100px;
+  background-image: linear-gradient(to right, #f9f8f6, #f9f8f6);
+}
+
+.intro{
+  font-size: 2em;
+}
+.contact{
+  font-size: 1.3em;
+}
+h1{
+  text-align: center;
+}
+
+input{
+  background-image: linear-gradient(to right, #f9f8f6, #f9f8f6);
+}
+.modal-header{
+  background-image: linear-gradient(to right, #f9f8f6, #f9f8f6);
+}
+.bloc-img{
+  width: 72%;
+  margin: auto;
+}
+.bloc-img:hover{
+  cursor: pointer;
+}
+.bloc-text{
+  background-image: linear-gradient(to bottom, #fff, #f9f8f6);
+}
+a{
+  color: black;
+}
